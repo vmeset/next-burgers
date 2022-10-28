@@ -1,11 +1,11 @@
 import { NextPage } from "next";
 
-const Cheese: NextPage = () => {
+const Details: NextPage = () => {
     return (
         <div>
-            ChesseBurger
+            Details
         </div>
     );
 }
 
-export default Cheese
+export default Details

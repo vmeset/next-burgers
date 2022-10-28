@@ -9,7 +9,7 @@ const Header: NextPage = () => {
                 <GiHamburger />
                 <Link href='/burgers'><a> burgZ </a></Link>
                 <Link href='/about'><a>about </a></Link>
-                <Link href='/review'><a>review </a></Link>
+                <Link href='/reviews'><a>reviews </a></Link>
             </nav>
         </header>
     );
